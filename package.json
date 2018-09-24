@@ -1,0 +1,13 @@
+{
+  "name": "@usertech/neutrino-preset-graphql",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.9.2",
+    "neutrino": "^8.3.0"
+  }
+}
